@@ -1,0 +1,22 @@
+﻿- kết nối được data  																			OK
+- tạo bảng : sản phẩm - user - order - order_detail												OK
+- tạo mới tài khoản lưu vào data																OK
+- hiển thị hết danh sách sản phẩm ra trang chủ 		(phân trang)								OK
+- xem chi tiết thông tin từng sản phẩm															OK
+- chức năng tìm kiếm sản phẩm theo tên															OK
+- gắn link trang sản phẩm theo thể loại (làm từng trang hiển thị riêng rồi gắn link vào)		OK
+- đăng nhập - phần quyền khi đăng nhập															OK
+- thêm vào giỏ hàng																				OK
+- hiển thị giỏ hàng ( thông tin từ order)														OK
+- lưu thông tin của giỏ hàng vào data															OK
+- chức năng của trang admin 	- hiển thị bảng user người đã đăng kí ( có phân trang)			OK
+								- hiển thị bảng danh sách ản phẩm								OK
+								- chức năng update thông tin vật phẩm							OK
+								- tạo mới sản phẩm lưu vào data									OK
+								- xoá sản phẩm													OK
+								
+Phiên bản Eclipse sử dụng : 
+	Version: 2022-09 (4.25.0)
+	Build id: 20220908-1902
+	
+Link Driver : https://drive.google.com/file/d/12j30UEOsS-Ee0x9Fr1OFfyeGUimUg0iI/view?usp=sharing
